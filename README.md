@@ -20,7 +20,7 @@ A junior backend developer who always wants to do well💪<br>
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)
 
-<h4 align="center">✉ Foolow Me</h4>
+<h4 align="center">✉ Follow Me</h4>
 <a href="https://velog.io/@sbkim13"><img src="https://img.shields.io/badge/Velog-20C997.svg?&style=flat&logo=Velog&logoColor=white"/></a>
 <a href="mailto:ahoho0544@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=ahoho0544@gmail.com"/></a>
 </div>
