@@ -16,7 +16,6 @@ A junior backend developer who always wants to do well💪<br>
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=Eclipse&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)
 
 <h4 align="center">✉ Follow Me</h4>
